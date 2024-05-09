@@ -24,6 +24,6 @@ document.addEventListener('DOMContentLoaded', function() {
         articleForm.reset();
         
         // Redirect to index.html after submission
-        // window.location.href = 'index.html';
+        window.location.href = 'index.html';
     });
 });
