@@ -19,6 +19,7 @@ textarea {
 
 
 button {
+    margin-top: 5px;
     padding: 10px 20px;
     background-color: #007bff;
     color: #fff;
