@@ -23,7 +23,6 @@ document.addEventListener('DOMContentLoaded', function() {
         // Clear form inputs after submission
         articleForm.reset();
         
-        // Redirect to index.html after submission
         window.location.href = 'index.html';
     });
 });
